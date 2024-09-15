@@ -1,3 +1,7 @@
+## Where can I write my favorite foods?
+
+Open the app GavLav, press "Edit profile" and tell us what you move to your pen.
+
 # FAQ
 
 ## How many photos can I post?
